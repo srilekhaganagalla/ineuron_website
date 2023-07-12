@@ -1,0 +1,12 @@
+
+hr{
+    max-width: 15%;
+}
+h4>a{
+ text-decoration: none;
+}
+@media (max-width: 767px) {
+    .ineuron {
+        width: 100%;
+    }
+}
